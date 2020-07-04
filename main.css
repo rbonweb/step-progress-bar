@@ -6,6 +6,7 @@ body {
 
 /* Basic Progress Bar setup*/
 .progressbar {
+  width: 100%;
   margin: 0;
   padding: 0;
   position: relative;
@@ -13,7 +14,7 @@ body {
 }
 .progressbar li {
   list-style-type: none;
-  width: 15%;
+  width: 30%;
   float: left;
   font-size: 1rem;
   position: relative;
